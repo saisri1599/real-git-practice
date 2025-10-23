@@ -1,3 +1,5 @@
 Sample sales report data
 Added new line for PR practice
+This is user A's update.
 This is user B's conflicting update.
+
